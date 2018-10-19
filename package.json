@@ -32,8 +32,8 @@
   "typings": "./ng2-dnd.d.ts",
   "homepage": "https://github.com/akserg/ng2-dnd#readme",
   "peerDependencies": {
-    "@angular/core": "^4.0.0 || ^5.0.0",
-    "@angular/forms": "^4.0.0 || ^5.0.0"
+    "@angular/core": "^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0",
+    "@angular/forms": "^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0"
   },
   "devDependencies": {
     "@angular/common": "^5.0.0",
